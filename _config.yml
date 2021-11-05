@@ -23,11 +23,10 @@ navbar-links:
   page1: Home
   page2: Page2
   
-  <p> <img src= "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands#/media/File:Flag_of_the_Netherlands.svg" style="width:100%"></p>
+  <p> <img src= "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands#/media/File:Flag_of_the_Netherlands.svg" style="width:100%"> </p>
   <p> Flag of the Netherlands </p>
   </div>
   <div class="col-sm-6">
-  </div>
   
   page3: Page3
   page4: Page4
