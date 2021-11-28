@@ -3,10 +3,10 @@ title: home
 ---
 
 <h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
-<p>three things i like</p>
+<p></p>
+<p>A Dutch guide to travelling in the Netherlands</p>
 <ul>
-<li>dogs</li>
-<li>cats</li>
-<li>birds</li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
