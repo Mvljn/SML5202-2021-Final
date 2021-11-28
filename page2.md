@@ -1,8 +1,8 @@
 ---
-title: Page2
+title: Indroduce
 ---
 
-<h1>Lets Introduce</h1>
+<h1>Lets Introduce yourself</h1>
 <p>Some content</p>
 <div class="row">
 <div class ="col-sm-6">
