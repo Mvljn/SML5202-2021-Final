@@ -2,7 +2,7 @@
 title: home
 ---
 
-<h1> Welcome</h1>
+<h3 style="color:Tomato;">Hello World</h3>
 <p></p>
 <p> A Dutch guide to travelling in the Netherlands</p>
 <ul>
