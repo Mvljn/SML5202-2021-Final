@@ -1,4 +1,6 @@
-
+---
+title: home
+---
 </head>
 <body>
 
