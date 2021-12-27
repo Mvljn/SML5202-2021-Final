@@ -11,5 +11,5 @@ title: home
 <li></li>
 </ul>
 <div class="row">
-<div class ="col-sm-6">
+<div class ="col-sm-4">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="width:100%"> </p>
