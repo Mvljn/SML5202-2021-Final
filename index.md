@@ -4,8 +4,8 @@ title: home
 
 <h3 style="color:Tomato;"><b>Welcome</b></h3>
 
-<p style="color:DodgerBlue;"><b>'Welkom'</b></p>
-<p style="color:Red;"><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></p>
+<h4 style="font-family:verdana;"><p style="color:DodgerBlue;"><b>'Welkom'</b></p></h4>
+<p style="color:Red;">style="font-family:verdana;"><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></p>
 
 <div class="row">
 <div class ="col-sm-4">
