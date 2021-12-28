@@ -4,7 +4,7 @@ title: home
 
 <h3 style="color:Tomato;"><b>Welcome</b></h3>
 <p style="color:DodgerBlue;"><b>Welkom</b></p>
-<p>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands. </p>
+<p><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></p>
 
 <div class="row">
 <div class ="col-sm-4">
@@ -14,3 +14,4 @@ title: home
 <li></li>
 <li></li>
 </ul>
+<i>This text is italic</i>
