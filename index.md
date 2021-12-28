@@ -7,7 +7,7 @@ title: home
 <p style="color:DodgerBlue;font-family:tahoma"><b>'Welkom'</b></p>
 <p style="color:Red;"><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></p>
 <p><font face = "tahoma" size = "-1" color = "#FF0000">
-            It is a courier font, a size smaller and black in color.
+            <i>It is a courier font, a size smaller and black in color.</i>
          </font>
       </p>
 
