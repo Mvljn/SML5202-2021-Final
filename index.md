@@ -3,7 +3,7 @@ title: home
 ---
 
 <h3 style="color:Tomato;"><b>Welcome</b></h3>
-<p style="color:DodgerBlue;"><b>A Dutch guide to travelling in the Netherlands</b></p>
+<p style="color:DodgerBlue;"><b>Welkom</b></p>
 <p>
 
 <div class="row">
