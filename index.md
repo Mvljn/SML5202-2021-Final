@@ -18,7 +18,7 @@ title: home
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:170px;height:170px;margin-right:15px;">
 This website will provide the user with a basic conversational skill set to aid and ease a tourist on their travels in the Netherlands. </p>
     
- 
+ <head>
  <style>
 div {
   float: left;
