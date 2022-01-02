@@ -11,15 +11,12 @@ title: home
 
 <div class="row">
 <div class ="col-sm-4">
-<p><strong>Float the image to the left:</strong></p>
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:200px;height:200px;">
-A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
-</p>
+<h4>Float Left</h2>
+
+<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="width:170px;height:170px;margin-right:15px;">
+This website will provide the user with a basic conversational skill set to aid and ease a tourist on their travels in the Netherlands. </p>
          
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
+
 
