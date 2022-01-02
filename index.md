@@ -13,7 +13,7 @@ title: home
 <div class ="col-sm-4">
 <p><strong>Float the image to the left:</strong></p>
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:950px;height:950px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:250px;height:250px;">
 A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
 </p>
          
