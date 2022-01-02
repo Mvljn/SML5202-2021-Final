@@ -27,21 +27,4 @@ This website will provide the user with a basic conversational skill set to aid 
 <div class="div1">Div 1</div>
 <div class="div2">Div 2</div>
 <div class="div3">Div 3</div>
- <style>
-div {
-  float: left;
-  padding: 15px; 
-}
-
-.div1 {
-  background: red;
-}
-
-.div2 {
-  background: yellow;
-}
-
-.div3 {
-  background: green;
-}
-</style>
+ 
