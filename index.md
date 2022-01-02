@@ -17,8 +17,16 @@ title: home
 
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:170px;height:170px;margin-right:15px;">
 This website will provide the user with a basic conversational skill set to aid and ease a tourist on their travels in the Netherlands. </p>
-    
+   
 
+
+<h2>Float Next To Each Other</h2>
+
+<p>In this example, the three divs will float next to each other.</p>
+
+<div class="div1">Div 1</div>
+<div class="div2">Div 2</div>
+<div class="div3">Div 3</div>
  <style>
 div {
   float: left;
@@ -37,12 +45,3 @@ div {
   background: green;
 }
 </style>
-
-
-<h2>Float Next To Each Other</h2>
-
-<p>In this example, the three divs will float next to each other.</p>
-
-<div class="div1">Div 1</div>
-<div class="div2">Div 2</div>
-<div class="div3">Div 3</div>
