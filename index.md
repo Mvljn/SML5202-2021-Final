@@ -20,7 +20,7 @@ This website will provide the user with a basic conversational skill set to aid 
    
 
 
-<h2>Float Next To Each Other</h2>
+<h5>Float Next To Each Other</h5>
 
 <p>In this example, the three divs will float next to each other.</p>
 
