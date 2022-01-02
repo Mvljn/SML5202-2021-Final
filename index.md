@@ -12,6 +12,7 @@ title: home
 <div class="row">
 <div class ="col-sm-4">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="width:100%"> </p>
+<p style="color:DodgerBlue;font-family:tahoma">"This website will provide you with some basic conversational skills to help in your travels in The Netherlands."</p>
 <ul>
 <li></li>
 <li></li>
