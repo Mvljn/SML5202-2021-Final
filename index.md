@@ -11,8 +11,12 @@ title: home
 
 <div class="row">
 <div class ="col-sm-4">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="width:100%"> </p>
-<p>This website will provide you with some basic conversational skills to help in your travels in The Netherlands.</p>
+<p><strong>Float the image to the left:</strong></p>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:70px;height:70px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
+</p>
+         
 <ul>
 <li></li>
 <li></li>
