@@ -3,8 +3,8 @@ title: home
 ---
 
 <div class="header">
-  <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-dutch-woman-netherlands-icongeek26-linear-colour-icongeek26.png alt="tea"/>
-  <h3 style="color:SlateBlue;"><b>WELCOME</b></h3>
+  <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-dutch-woman-netherlands-icongeek26-linear-colour-icongeek26.png" alt="welcome"/>
+  <h1 style="color:SlateBlue;">WELCOME</h1>
 </div>
 
 
