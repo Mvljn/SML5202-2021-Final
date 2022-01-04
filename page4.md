@@ -1,4 +1,10 @@
-<h1>Food and Ordering at a Restaurant</h1>
+
+<div class="header">
+  <img src="https://img.icons8.com/color/48/000000/tea--v2.png" alt="tea"/>
+  <h1>Food and Ordering at a Restaurant</h1>
+</div>
+
+
 
 <p style="text-align:center;"> In this page you will learn some basic food vocabulary and how to successfully order at a Restaurant!</p>
 
