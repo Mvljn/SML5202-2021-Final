@@ -39,3 +39,37 @@ hand();
 setInterval(hand, 2000);
 </script>
 
+ <div class="ag-format-container">
+        <div class="js-icon_box ag-icon_box">
+            <div class="ag-icon_item">
+              <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-1.png" alt="" />
+            </div>
+          <div class="ag-icon_item">
+              <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-20.png" alt="" />
+            </div>
+          <div class="ag-icon_item">
+              <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-3.png" alt="" />
+            </div>
+          <div class="ag-icon_item">
+              <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-4.png" alt="" />
+            </div>
+          <div class="ag-icon_item">
+              <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-15.png" alt="" />
+            </div>
+          <div class="ag-icon_item">
+            <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-6.png" alt="" />
+          </div>
+          <div class="ag-icon_item">
+            <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-17.png" alt="" />
+          </div>
+          <div class="ag-icon_item">
+            <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-8.png" alt="" />
+          </div>
+          <div class="ag-icon_item">
+            <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-22.png" alt="" />
+          </div>
+          <div class="ag-icon_item">
+            <img src="https://raw.githack.com/SochavaAG/example-mycode/master/pens/1_images/avatar-10.png" alt="" />
+          </div>
+        </div>
+  </div>
