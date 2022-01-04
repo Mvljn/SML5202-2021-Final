@@ -1,4 +1,4 @@
-<h1 <div style="border: 1px solid black" Food and Ordering at a Restaurant</h1></div>
+<h1>Food and Ordering at a Restaurant</h1>
 
 <p style="text-align:center;"> In this page you will learn some basic food vocabulary and how to successfully order at a Restaurant!</p>
 
