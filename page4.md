@@ -4,4 +4,12 @@
 
 <p style="text-align:right;">Here are some phrases that will be useful to you in a Restaurant setting.</p>
 
-
+ul {
+  text-align: center;
+  list-style-position: right;
+}
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+</ul>
