@@ -27,6 +27,6 @@ title: home
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:170px;height:170px;margin-right:15px;">
 This website will provide the user with a basic conversational skill set to aid and ease a tourist on their travels in the Netherlands. </p>
   
-<img src="https://img.icons8.com/fluency/50/000000/netherlands-map.png" style="float:right;width:170px;height:170px;margin-left:15px;">
+<img src="https://img.icons8.com/fluency/50/000000/netherlands-map.png" style="float:right;width:170px;height:170px;margin-right:15px;">
    
                                                                                                                                        <a href="https://www.proprofs.com/quiz-school/ugc/story.php?title=mzm3ndc3nw94of"</a>
