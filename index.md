@@ -5,7 +5,7 @@ title: home
 <div class="header">
   <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-dutch-woman-netherlands-icongeek26-linear-colour-icongeek26.png" width="95" height="84" alt="welcome"/>
   <img src="https://img.icons8.com/offices/30/000000/netherlands.png" width="95" height="84" style="float:left"/>
-  <img src="https://https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-dutch-man-netherlands-icongeek26-linear-colour-icongeek26.png" width="95" height="84" style="float:left"/>
+  <img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-dutch-man-netherlands-icongeek26-flat-icongeek26.png" width="95" height="84" style="float:left"/>
   
   
   <h1 style="color:SlateBlue;"><b>WELCOME</b></h1>
