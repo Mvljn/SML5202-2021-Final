@@ -11,10 +11,14 @@
 <p><i> Here are some phrases that will be useful to you in a Restaurant setting:</i></p>
 
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
+  <li>Do you have a menu I could look at please?</li>
+  <li>Heb uw een *menu* waar ik naar kan kijken?</li>
+  </ul>
+  <p><i> In Dutch, the letter 'J'is pronounced as a 'Y' sound in English and the word 'Uw' is an 'Oo' sound.</i></p>
+  
+  
+  
+ 
 
 <img src="https://img.icons8.com/color/48/000000/netherlands.png" style="float:right;margin-right:25px;"/>
 
