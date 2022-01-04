@@ -4,9 +4,9 @@
 
 <p style="text-align:right;">Here are some phrases that will be useful to you in a Restaurant setting.</p>
 
-<div id="wrapper" class="center">
-    <div id="content" class="center">
-        <div id="listDiv" class="center">
+<div id="wrapper" class="right">
+    <div id="content" class="right">
+        <div id="listDiv" class="right">
            <ul>
                <li><a href='#' id="1" >Link one</a> </li>
                <li><a href='#' id="2" >Link 2</a> </li>
