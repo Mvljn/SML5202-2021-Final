@@ -10,7 +10,7 @@
 <p><i> Here are some phrases that will be useful to you in a Restaurant setting:</i></p>
 
 <ul>
-  <li><font color="Tomato">Menu=</font></strong><strong>'Menu'- See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
+  <li><strong><font color="Tomato">Menu=</font></strong><strong>'Menu'- See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
   <li><font color="Tomato">Fish=</font><strong>'Fis'</strong></li>
   <li><font color="Tomato">Order=</font><strong>'Bestellen'</strong></li>
   <li><font color="Tomato">Table=</font><strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
