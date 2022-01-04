@@ -5,7 +5,7 @@ title: home
 <div class="header">
   <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-dutch-woman-netherlands-icongeek26-linear-colour-icongeek26.png" width="95" height="84" alt="welcome"/>
   <img src="https://img.icons8.com/offices/30/000000/netherlands.png" width="95" height="84" style="float:left"/>
-  <h1 style="color:SlateBlue;">WELCOME</h1>
+  <h1 style="color:SlateBlue;"><b>WELCOME</b></h1>
 </div>
 
  
