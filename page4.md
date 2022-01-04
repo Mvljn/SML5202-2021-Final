@@ -1,7 +1,7 @@
 
 <div class="header">
   <img src="https://img.icons8.com/color/48/000000/tea--v2.png" alt="tea"/>
-  <h1 style="background-color:SlateBlue;"color:White;">Food and Ordering at a Restaurant</h1>
+  <h1 style="color:SlateBlue;">Food and Ordering at a Restaurant</h1>
 </div>
 
 
