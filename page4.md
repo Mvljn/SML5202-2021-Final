@@ -13,7 +13,7 @@
   <li>Menu='Menu'- See, it's easy! :) <i>This word is pronounced like "Menoo"</li></i>
   <li>Fish='Fis'</li>
   <li>Order='Bestellen'</li>
-  <li>Table='Tafel'- <i>The world for table has a long 'a' sound= 'Taafel'</li></i>
+  <li>Table='Tafel'- <i>The word for table has a long 'a' sound= 'Taafel'</li></i>
   <li>Thank you='Danku'- <i> Again, like Menu, the word Danku has a 'oo' sound.</li></i>
   <li>Booking/Reservation='Reseveren'</li>
   <li>Drink='Drinken'</li>
