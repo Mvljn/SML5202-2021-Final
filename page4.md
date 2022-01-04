@@ -34,12 +34,9 @@
   </ul>
   <p><i> In Dutch, the letter 'J'is pronounced as a 'Y' sound in English and the word 'Uw' is an 'Oo' sound.</i></p>
   
+ <p>Unicode:</p>
+<i style='font-size:24px' class='fas'>&#xf5ce;</i>
  
-  <i class='fas fa-glass-cheers'></i>
-<i class='fas fa-glass-cheers' style='font-size:24px'></i>
-<i class='fas fa-glass-cheers' style='font-size:36px'></i>
-<i class='fas fa-glass-cheers' style='font-size:48px;color:red'></i>
-<br>
   
  
 
