@@ -13,14 +13,14 @@
   <li>Menu='Menu'- See, it's easy! :) <i>This word is pronounced like "Menoo"</li></i>
   <li>Fish='Fis'</li>
   <li>Order='Bestellen'</li>
-  <li>Table='Tafel'- The world for table has a long 'a' sound= 'Taafel'</li>
-  <li>Thank you='Danku'- Again, like Menu, the word Danku has a 'oo' sound.</li>
+  <li>Table='Tafel'- <i>The world for table has a long 'a' sound= 'Taafel'</li></i>
+  <li>Thank you='Danku'- <i> Again, like Menu, the word Danku has a 'oo' sound.</li></i>
   <li>Booking/Reservation='Reseveren'</li>
   <li>Drink='Drinken'</li>
-  <li>Napkin='Servetje'- In Dutch the letter 'V' is pronounced like an 'F' sound in English.</li>
-  <li>Meal='Maaltijd'- The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</li>
-  <li>Good='Goed'- The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</li>
-  <li>Bad='Slecht'-This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</li>
+  <li>Napkin='Servetje'-<i> In Dutch the letter 'V' is pronounced like an 'F' sound in English.</li></i>
+  <li>Meal='Maaltijd'- <i>The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</li></i>
+  <li>Good='Goed'- <i>The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</li></i>
+  <li>Bad='Slecht'-<i>This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</li></i>
   <li>Bill='Rekening'</li>
   </ul>
   
