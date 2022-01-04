@@ -10,9 +10,9 @@
 <p><i> Here are some phrases that will be useful to you in a Restaurant setting:</i></p>
 
 <ul>
-  <li><font color="Tomato">Menu='Menu'</font>-<strong> See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
-  <li>Fish=<strong>'Fis'</strong></li>
-  <li>Order=<strong>'Bestellen'</strong></li>
+  <li><font color="Tomato">Menu=</font><strong>'Menu'- See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
+  <li><font color="Tomato">Fish=</font><strong>'Fis'</strong></li>
+  <li><font color="Tomato">Order=</font><strong>'Bestellen'</strong></li>
   <li>Table=<strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
   <li>Thank you=<strong>'Danku'-Again, like Menu, the word Danku has a 'oo' sound.</strong></li>
   <li>Booking/Reservation=<strong>'Reseveren'</strong></li>
