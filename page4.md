@@ -4,12 +4,25 @@
 
 <p style="text-align:right;">Here are some phrases that will be useful to you in a Restaurant setting.</p>
 
-ul {
-  text-align: center;
-  list-style-position: right;
+ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: right;
+}
+
+li
+{
+background-image: url(arrow.gif);
+background-repeat: no-repeat;
+background-position: 100% .4em;
+padding-right: .6em;
 }
 <ul>
-  <li>One</li>
-  <li>Two</li>
-  <li>Three</li>
+<li><a href="#">Milk</a></li>
+<li><a href="#">Eggs</a></li>
+<li><a href="#">Cheese</a></li>
+<li><a href="#">Vegetables</a></li>
+<li><a href="#">Fruit</a></li>
 </ul>
