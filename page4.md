@@ -22,7 +22,8 @@
   <li>Good='Goed'- <i>The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</li></i>
   <li>Bad='Slecht'-<i>This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</li></i>
   <li>Bill='Rekening'</li>
-  </ul>
+  
+   </ul>
   
 
 
