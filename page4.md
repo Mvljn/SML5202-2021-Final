@@ -1,5 +1,7 @@
-<h1>Food</h1>
-<p>write your content in this file as you would normally</p>
-<a href="https://www.proprofs.com/quiz-school/ugc/story.php?title=mzm3ndc3nw94of">Dutch Quiz</a>
+<h1>Food and Ordering at a Restaurant</h1>
+
+<p> In this page you will learn some basic food vocabulary and how to successfully order at a Restaurant!</p>
+
+<p style=“text-align:right;”> Here are some phrases that will be useful to you in a Restaurant setting </p>
 
 
