@@ -10,6 +10,15 @@
   <li>Milk</li>
 </ul>  
 
+<img src="https://img.icons8.com/color/48/000000/netherlands.png"/>
+
+<img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-clogs-netherlands-icongeek26-linear-colour-icongeek26.png"/>
+
+<img src="https://img.icons8.com/fluency/48/000000/netherlands-map.png”/>
+
+
+
+
 <style>
 #div1 {
   font-size:48px;
