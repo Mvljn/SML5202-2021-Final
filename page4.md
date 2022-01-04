@@ -11,17 +11,17 @@
 
 <ul>
   <li>Menu='Menu'-<strong> See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
-  <li>Fish='Fis'</li>
-  <li>Order='Bestellen'</li>
-  <li>Table='Tafel'-The word for table has a long 'a' sound= 'Taafel'</li>
-  <li>Thank you='Danku'-Again, like Menu, the word Danku has a 'oo' sound.</li>
-  <li>Booking/Reservation='Reseveren'</li>
-  <li>Drink='Drinken'</li>
-  <li>Napkin='Servetje'-In Dutch the letter 'V' is pronounced like an 'F' sound in English. The letter 'J' in Dutch is ALWAYS pronounced as if its a 'Y;'</li>
-  <li>Meal='Maaltijd'-The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</li>
-  <li>Good='Goed'-The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</li>
-  <li>Bad='Slecht'-This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</li>
-  <li>Bill='Rekening'</li>
+  <li>Fish=<strong>'Fis'</strong></li>
+  <li>Order=<strong>'Bestellen'</strong></li>
+  <li>Table=<strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
+  <li>Thank you=<strong>'Danku'-Again, like Menu, the word Danku has a 'oo' sound.</strong></li>
+  <li>Booking/Reservation=<strong>'Reseveren'</strong></li>
+  <li>Drink=<strong>'Drinken'</strong></li>
+  <li>Napkin=<strong>'Servetje'-In Dutch the letter 'V' is pronounced like an 'F' sound in English. The letter 'J' in Dutch is ALWAYS pronounced as if its a 'Y'</strong></li>
+  <li>Meal=<strong>'Maaltijd'-The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</strong></li>
+  <li>Good=<strong>'Goed'-The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</strong></li>
+  <li>Bad=<strong>'Slecht'-This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</strong></li>
+  <li>Bill=<strong>'Rekening'</strong></li>
   
    </ul>
   
