@@ -1,11 +1,8 @@
 ---
 title: home
 ---
-<div class="header">
-  <img src="https://www.shutterstock.com/image-vector/group-happy-people-standing-together-waving-1908869926" alt="welcome"/>
-  <h3 style="color:SlateBlue;">Welcome</h3>
-</div>
-<h3 style="color:Tomato;"><b>Welcome</b></h3>
+
+<h3 style="color:SlateBlue;"><b>Welcome</b></h3>
 
 <p style="color:DodgerBlue;font-family:tahoma"><b>'Welkom'</b></p>
 <p><font face = "tahoma" color = "#FF0000"><b><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></b>
