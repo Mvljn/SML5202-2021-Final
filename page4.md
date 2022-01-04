@@ -43,9 +43,7 @@
 
 <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-clogs-netherlands-icongeek26-linear-colour-icongeek26.png"/>
 
-<div class="red">  </div>
-<div class="white"></div>
-<div class="blue"> </div>
+
  
 
          
