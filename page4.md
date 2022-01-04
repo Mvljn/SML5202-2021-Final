@@ -10,7 +10,7 @@
   <li>Milk</li>
 </ul>  
 
-<img src="https://img.icons8.com/color/48/000000/netherlands.png"/>
+<img src="https://img.icons8.com/color/48/000000/netherlands.png"style="float:right;margin-right:15px;"/>
 
 <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-clogs-netherlands-icongeek26-linear-colour-icongeek26.png"/>
 
