@@ -34,8 +34,7 @@
   </ul>
   <p><i> In Dutch, the letter 'J'is pronounced as a 'Y' sound in English and the word 'Uw' is an 'Oo' sound.</i></p>
   
- <p>Unicode:</p>
-<i style='font-size:24px' class='fas'>&#xf5ce;</i>
+
  
   
  
@@ -44,7 +43,9 @@
 
 <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-clogs-netherlands-icongeek26-linear-colour-icongeek26.png"/>
 
-
+<div class="red">  </div>
+<div class="white"></div>
+<div class="blue"> </div>
  
 
          
