@@ -5,7 +5,7 @@
 </div>
 
 
-<p style="text-align:center;color:Tomato;">In this page you will learn some basic food vocabulary and how to successfully order at a Restaurant!</p>
+<p style="text-align:center;color:Tomato;"><b>In this page you will learn some basic food vocabulary and how to successfully order at a Restaurant!</b></p>
 
 <p><i> Here are some phrases that will be useful to you in a Restaurant setting:</i></p>
 
