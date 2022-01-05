@@ -29,5 +29,13 @@ This website will provide the user with a basic conversational skill set to aid 
   
 <img src="https://img.icons8.com/fluency/50/000000/netherlands-map.png" style="float:right;width:170px;height:170px;margin-right:15px;">
    
+  <body>
+   <h1>Float Right</h1>
+   <p>The below image floats to the right.</p>
+   <p>
   <img src="https://www.shutterstock.com/image-illustration/illustrated-colorful-silhouette-cheering-crowd-70488481" style="float:right" width="190" height="84" />
-                                                                                                                                       <a href="https://www.proprofs.com/quiz-school/ugc/story.php?title=mzm3ndc3nw94of"</a>
+  float right right
+    </p>
+     
+     
+     <a href="https://www.proprofs.com/quiz-school/ugc/story.php?title=mzm3ndc3nw94of"</a>
