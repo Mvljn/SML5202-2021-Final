@@ -16,6 +16,7 @@ github:
   page3: page3.html
   page4: page4.html
   page5: page5.html
+  page6: page6.html
   
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
@@ -25,3 +26,4 @@ navbar-links:
   page3: Page3
   page4: FOOD AND RESTAURANT
   page5: FOOD QUIZ
+  page6: HELP IN THE NETHERLANDS
