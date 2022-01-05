@@ -40,7 +40,7 @@
  
 
   <p>
-  <a href="mvljn.github.io/SML5202-2021-Final/page5.html">Click the Link Below for a Quiz on what you have just learnt!</a>
+  <a href="mvljn.github.io/SML5202-2021-Final/page5.html">Click this link for a Quiz on what you have just learnt!</a>
 </p>   
 
 
