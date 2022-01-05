@@ -26,8 +26,7 @@
    </ul>
   
 
-<p Click the Link Below for a Quiz on what you have just learnt!</p>
-   <a href= "https://mvljn.github.io/SML5202-2021-Final/page5.html/"></a>
+<p> Click the Link Below for a Quiz on what you have just learnt!</p><a href= "https://mvljn.github.io/SML5202-2021-Final/page5.html/"></a>
   
 
  
