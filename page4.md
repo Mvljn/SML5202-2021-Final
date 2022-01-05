@@ -26,8 +26,7 @@
    </ul>
   
 
-<p> Click the Link Below for a Quiz on what you have just learnt!</p><a href= "https://mvljn.github.io/SML5202-2021-Final/page5.html/"></a>
-  
+
 
  
   
@@ -38,7 +37,7 @@
 <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-clogs-netherlands-icongeek26-linear-colour-icongeek26.png"/>
 
 
- 
+ p> Click the Link Below for a Quiz on what you have just learnt!</p><a href= "https://mvljn.github.io/SML5202-2021-Final/page5.html/"></a>
 
          
 
