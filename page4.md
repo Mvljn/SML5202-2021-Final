@@ -26,13 +26,8 @@
    </ul>
   
 
-
-    
- <ul>
-  <li>Do you have a menu I could look at please?</li>
-  <li>Heb uw een menu waar ik naar kan kijken?</li>
-  </ul>
-  <p><i> In Dutch, the letter 'J'is pronounced as a 'Y' sound in English and the word 'Uw' is an 'Oo' sound.</i></p>
+<p Click the Link Below for a Quiz on what you have just learnt!</p>
+   <a href= "https://mvljn.github.io/SML5202-2021-Final/page5.html/"></a>
   
 
  
