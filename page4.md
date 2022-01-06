@@ -12,18 +12,28 @@
 <ul>
   <li><strong><font color="Tomato">Menu=</font></strong><strong>'Menu'- See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
   <iframe src="https://marisaviljoen044.h5p.com/content/1291529364027457127/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
   <li><strong><font color="Tomato">Fish=</font></strong><strong>'Fis'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529371942897327/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Order=</font></strong><strong>'Bestellen'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529373098352047/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Table=</font></strong><strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529373655945407/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Thank you=</font></strong><strong>'Danku'-Again, like Menu, the word Danku has a 'oo' sound.</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529374235952197/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Booking/Reservation=</font></strong><strong>'Reseveren'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529374746813087/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Drink=</font></strong><strong>'Drankje'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529375245178787/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Napkin=</font></strong><strong>'Servetje'-In Dutch the letter 'V' is pronounced like an 'F' sound in English. The letter 'J' in Dutch is ALWAYS pronounced as if its a 'Y'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529375690871107/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Meal=</font></strong><strong>'Maaltijd'-The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529376170803537/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Good=</font></strong><strong>'Goed'-The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529376701159197/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Bad=</font></strong><strong>'Slecht'-This one looks tricky, but really isn't. Imagine the 'h' letter is not there and try pronounce it!</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529377166384087/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Bill=</font></strong><strong>'Rekening'</strong></li>
+  <iframe src="https://marisaviljoen044.h5p.com/content/1291529377763774857/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   
    </ul>
   
