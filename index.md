@@ -18,24 +18,7 @@ title: home
          </font>
       </p>
 
-<div class="row">
-<div class ="col-sm-4">
-<h4>Float Left</h4>
+<iframe src="https://marisaviljoen044.h5p.com/content/1291529171151270157/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<p>In this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.</p>
-
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" style="float:left;width:170px;height:170px;margin-right:15px;">
-This website will provide the user with a basic conversational skill set to aid and ease a tourist on their travels in the Netherlands. </p>
-  
-<img src="https://img.icons8.com/fluency/50/000000/netherlands-map.png" style="float:right;width:170px;height:170px;margin-right:15px;">
-   
-  <body>
-   <h1>Float Right</h1>
-   <p>The below image floats to the right.</p>
-   <p>
-  <img src="https://www.shutterstock.com/image-illustration/illustrated-colorful-silhouette-cheering-crowd-70488481" style="float:right" width="190" height="84" />
-  float right right
-    </p>
      
      
-     <a href="https://www.proprofs.com/quiz-school/ugc/story.php?title=mzm3ndc3nw94of"</a>
