@@ -40,7 +40,7 @@
  
 
   <p>
-  <a href="mvljn.github.io/SML5202-2021-Final/page5.html">Click this link for a Quiz on what you have just learnt!</a>
+  CLICK ON FOOD QUIZ AT THE TOP OF THE NAVIGATION BAR FOR A QUICK QUIZ WHAT YOU HAVE JUST LEARNT!
 </p>   
 
 
