@@ -21,7 +21,7 @@ github:
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
-  page1: Home
+  page1: HOME
   page2: THE NETHERLANDS:ABOUT AND TIPS
   page3: INTRODUCE YOURSELF
   page4: FOOD AND RESTAURANT
