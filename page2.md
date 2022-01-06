@@ -9,6 +9,17 @@ title: Indroduce
 
 <iframe src="https://marisaviljoen044.h5p.com/content/1291529245403749357/embed" width="1000" height="600" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
  
+ 
+ <p> Listen to the audio below to hear how the these travel phrases are said!</p>
+ 
+ <ul>
+ <li>Could I have the bill please?</li>
+ <li>I would like to rent a bike please</li>
+ <li>Could I get a museum card please</li>
+ 
+ </ul>
+ 
+ 
  <ul>
   <li><a href="url">https://www.crunchbase.com/organization/bimbimbikes</a></li>
   <li><a href="url">https://www.ns.nl/en/door-to-door/ov-taxi.html</a></li>
