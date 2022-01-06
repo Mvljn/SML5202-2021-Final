@@ -13,9 +13,9 @@ title: Indroduce
  <p> Listen to the audio below to hear how the these travel phrases are said!</p>
  
  <ul>
- <li>Could I have the bill please?</li>
+ <li><strong>Could I have the bill please?</strong></li>
  <iframe src="https://marisaviljoen044.h5p.com/content/1291529471178060747/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
- <li>I would like to rent a bike please</li>
+ <li><strong>I would like to rent a bike please</strong><i>'Kan ik de rekening krijgen, alstublieft?</i></li>
  <iframe src="https://marisaviljoen044.h5p.com/content/1291529472752178567/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
  <li>Could I get a museum card please?</li>
  <iframe src="https://marisaviljoen044.h5p.com/content/1291529473150567477/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
