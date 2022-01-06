@@ -18,7 +18,7 @@
   <li><strong><font color="Tomato">Table=</font></strong><strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
   <li><strong><font color="Tomato">Thank you=</font></strong><strong>'Danku'-Again, like Menu, the word Danku has a 'oo' sound.</strong></li>
   <li><strong><font color="Tomato">Booking/Reservation=</font></strong><strong>'Reseveren'</strong></li>
-  <li><strong><font color="Tomato">Drink=</font></strong><strong>'Drinken'</strong></li>
+  <li><strong><font color="Tomato">Drink=</font></strong><strong>'Drankje'</strong></li>
   <li><strong><font color="Tomato">Napkin=</font></strong><strong>'Servetje'-In Dutch the letter 'V' is pronounced like an 'F' sound in English. The letter 'J' in Dutch is ALWAYS pronounced as if its a 'Y'</strong></li>
   <li><strong><font color="Tomato">Meal=</font></strong><strong>'Maaltijd'-The combination of the letters 'tijd' in Dutch are always pronounced as a 'Tey' sound.</strong></li>
   <li><strong><font color="Tomato">Good=</font></strong><strong>'Goed'-The letter 'D' is pronounced as a 'T' sound and the combination of 'O' and 'E' are also an 'oo' sound!</strong></li>
