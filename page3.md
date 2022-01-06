@@ -3,35 +3,6 @@ title: home
 ---
 </head>
 <body>
-<h1>Food</h1>
-<h2>CSS Layout Float</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
+<h1>LETS GREET AND INTRODUCE YOURSELF</h1>
 
-<header>
-  <h2>Cities</h2>
-</header>
-
-<section>
-  <nav>
-    <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
-    </ul>
-  </nav>
-  
-  <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
-  </article>
-</section>
-
-<footer>
-  <p>Footer</p>
-</footer>
-
-</body>
-</html>
-
+ <iframe src="https://marisaviljoen044.h5p.com/content/1291529209238524347/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
