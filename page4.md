@@ -11,6 +11,7 @@
 
 <ul>
   <li><strong><font color="Tomato">Menu=</font></strong><strong>'Menu'- See, it's easy! :)This word is pronounced like "Menoo"</strong></li>
+  <script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
   <li><strong><font color="Tomato">Fish=</font></strong><strong>'Fis'</strong></li>
   <li><strong><font color="Tomato">Order=</font></strong><strong>'Bestellen'</strong></li>
   <li><strong><font color="Tomato">Table=</font></strong><strong>'Tafel'-The word for table has a long 'a' sound= 'Taafel'</strong></li>
