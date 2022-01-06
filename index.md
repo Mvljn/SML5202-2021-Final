@@ -8,7 +8,7 @@ title: home
   <img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-dutch-man-netherlands-icongeek26-flat-icongeek26.png" width="95" height="84" style="float:left"/>
   
   
-  <h1 style="color:Black;"><b>WELCOME</b></h1>
+  <h1 style="color:Black;"><b>WELCOME/<style="color:DodgerBlue;">WELKOM</b></h1>
 </div>
 
  
