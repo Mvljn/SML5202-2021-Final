@@ -14,7 +14,7 @@ title: home
  
 
 <p style="color:DodgerBlue;font-family:tahoma"><b>'Welkom'</b></p>
-<p><font face = "tahoma" color = "#FF0000"><b><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></b>
+<p style="color:Black"><b><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></b>
          </font>
       </p>
 
