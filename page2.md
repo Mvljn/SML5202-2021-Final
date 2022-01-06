@@ -2,8 +2,8 @@
 title: Indroduce
 ---
 
-<h1>ABOUT THE NETHERLANDS</h1>
-<h2> Some Tips and Tricks to help you on your way</h2>
+<h1><strong>ABOUT THE NETHERLANDS</strong></h1>
+<h2><strong>Some Tips and Tricks to help you on your way</strong></h2>
 
 
 
