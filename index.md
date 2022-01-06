@@ -11,10 +11,4 @@ title: home
   <h1 style="color:Black;"><b>WELCOME/WELKOM</b></h1>
 </div>
 
- 
-<p style="color:Black;font-family:tahoma"><b><i>Have you ever felt lost in a country you travel to? Does a language barrier always seem to get in the way? Well, welcome to a Dutch Travel Guide to aid you in your travels around the beautiful country that is, The Netherlands.</i></b></p>
-
-<iframe src="https://marisaviljoen044.h5p.com/content/1291529171151270157/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-     
-     
+ <iframe src="https://marisaviljoen044.h5p.com/content/1291529351811777587/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://marisaviljoen044.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
