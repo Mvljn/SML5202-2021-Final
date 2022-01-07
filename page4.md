@@ -7,7 +7,7 @@
 
 <p style="text-align:center;color:Tomato;font-family:Arial"><b>In this page you will learn and hear some basic food vocabulary and how to successfully order at a Restaurant!</b></p>
 
-<p style="color:SlateBlue;"><i><b>Here are some phrases and vocabularly that will be useful to you in a Restaurant setting.
+<p style="color:SlateBlue;"><i><b>Below is some vocabularly that will be useful to you in a Restaurant setting.
   Click the audio button to hear how it sounds!</b></i></p>
 
 <ul>
