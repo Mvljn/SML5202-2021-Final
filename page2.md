@@ -35,7 +35,7 @@ title: Indroduce
 </ul>
  
   
-  <p><strong>Click the links above to rent a bike, book a taxi or buy some train tickets!</strong></p>
+  <p style="color:Tomato;"><strong>Click the links above to rent a bike, book a taxi or buy some train tickets!</strong></p>
  
 <p style="color:SlateBlue;"><strong> NOW LET'S TEST WHAT YOU HAVE LEARNT ABOUT TRAVEL!</strong></p>
 
