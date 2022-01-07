@@ -1,4 +1,5 @@
-<h1 style="color:SlateBlue;">FOOD QUIZ</h1>
+
+<h1 style="color:SlateBlue;"><strong>FOOD QUIZ</strong></h1>
 
 
 <p style="color:DodgerBlue;"><strong>On the previous page you learnt food vocabularly and restaurant phrases, let's now test your knowledge!</strong></p>
